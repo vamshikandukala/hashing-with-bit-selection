@@ -1,0 +1,153 @@
+/* CSS Document */
+body{
+margin:0px;
+padding:0px;
+}
+img{
+border:0px;
+}
+.flt{
+float:left;
+}
+#wh_bg{
+width:100%;
+margin:auto;
+}
+#bd_bg{
+width:100%;
+float:left;
+background:#F7F7F7;
+}
+/*top panel starts here*/
+#main1{
+width:100%;
+float:left;
+background:url(../images/top_bg.jpg) repeat-x;
+}
+#main2{
+width:100%;
+float:left;
+background:url(../images/wel_bg.jpg) repeat-x;
+}
+#main3{
+width:100%;
+float:left;
+
+}
+#main4{
+width:100%;
+float:left;
+border-top:6px solid #7B7B7B;
+background:#434343;
+}
+#top{
+width:1000px;
+text-align:left;
+}
+#wel_bg{
+width:1000px;
+text-align:left;
+color:#FFF;
+font:12px/15px Georgia;
+padding-bottom:20px;
+}
+.what{
+width:445px;
+height:263px;
+float:left;
+margin:18px 0px -42px 45px;
+position:relative;
+background:url(../images/tp_part1.jpg) no-repeat;
+}
+.logo{
+float:left;
+margin:75px 0px 0px 226px;
+}
+.menu{
+width:489px;
+height:43px;
+float:left;
+margin:66px 0px 0px 12px;
+background:url(../images/menu.gif) no-repeat;
+}
+.wh_img{
+float:left;
+margin:217px 0px 0px 225px;
+}
+.menu a{
+float:left;
+color:#444241;
+font:bold 13px/20px Trebuchet MS;
+margin:15px 18px 0px 20px;
+text-decoration:none;
+}
+.wel_img{
+float:left;
+margin:83px 0px 0px 50px;
+}
+/*top panel ends here*/
+/*content panel starts here*/
+#con{
+width:1000px;
+text-align:left;
+}
+#content{
+width:1000px;
+margin-top:23px;
+float:left;
+padding-bottom:20px;
+padding-left:10px;
+color:#515455;
+font:12px/15px Georgia;
+background:url(../images/con_bg.jpg) repeat-y;
+}
+#left{
+width:275px;
+float:left;
+padding:30px 0px 0px 29px;
+color:#515455;
+font:12px/15px Georgia;
+}
+#right{
+width:605px;
+float:left;
+padding:30px 0px 0px 57px;
+color:#515455;
+font:12px/15px Georgia;
+}
+.addr{
+width:178px;
+float:left;
+color:#515455;
+font:12px/15px Georgia;
+margin:25px 0px 0px 9px;
+}
+/*content panel ends here*/
+/*footer panel starts here*/
+#footer{
+width:1000px;
+text-align:left;
+}
+#foot{
+width:730px;
+float:left;
+padding:38px 0px 0px 240px;
+color:#FFF;
+font:12px/15px Georgia;
+}
+#foot a{
+float:left;
+color:#FFF;
+margin-left:20px;
+font:12px/15px Georgia;
+text-decoration:none;
+}
+.copy{
+width:1000px;
+float:left;
+color:#FFF;
+margin:10px 0 0 5px;
+font:12px Georgia;
+text-align:center;
+}
+/*footer panel ends here*/
